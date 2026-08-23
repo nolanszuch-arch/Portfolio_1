@@ -68,12 +68,8 @@ Outside of analytics, I'm a former collegiate swimmer and vinyl enthusiast. 🏊
 
 # 🚧 Currently Building
 
-I'm continuing to expand my portfolio with projects focused on:
+I'm continuing to expand my portfolio with more projects stay tuned:
 
-- 🗃️ SQL & Database Analysis
-- 📊 Power BI Dashboards
-- 🐍 Python & Pandas
-- 🏥 Healthcare Analytics
 
 ---
 
