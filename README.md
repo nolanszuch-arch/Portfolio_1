@@ -64,16 +64,6 @@ My interests include **data analytics, financial and risk analytics, healthcare 
 
 Outside of analytics, I'm a former collegiate swimmer and vinyl enthusiast. 🏊‍♂️🎵
 
----
-
-# 🚧 Currently Building
-
-I'm continuing to expand my portfolio with projects focused on:
-
-- 🗃️ SQL & Database Analysis
-- 📊 Power BI Dashboards
-- 🐍 Python & Pandas
-- 🏥 Healthcare Analytics
 
 ---
 
