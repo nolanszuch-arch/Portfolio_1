@@ -18,7 +18,7 @@ My projects explore **data analytics, statistical modeling, financial analysis, 
 
 | Project | Tools | Area | Description |
 |---|---|---|---|
-| 📉 [Job Loss & Depression Analysis](https://github.com/nolanszuch-arch/Job-Loss-and-Depression-Analysis) | R, dplyr, ggplot2 | Statistical Analysis | Analyzed U.S. Census HTOPS data to examine the relationship between job loss and reported depression. Cleaned and transformed survey data, developed logistic regression models, interpreted odds ratios and marginal effects, and performed robustness testing. |
+| 📉 [Job Loss & Depression Analysis]([https://github.com/nolanszuch-arch/Job-Loss-and-Depression-Analysis](https://github.com/nolanszuch-arch/M-A-Airline-Valuation-Analysis)) | R, dplyr, ggplot2 | Statistical Analysis | Analyzed U.S. Census HTOPS data to examine the relationship between job loss and reported depression. Cleaned and transformed survey data, developed logistic regression models, interpreted odds ratios and marginal effects, and performed robustness testing. |
 
 ---
 
@@ -34,7 +34,7 @@ My projects explore **data analytics, statistical modeling, financial analysis, 
 
 | Project | Tools | Area | Description |
 |---|---|---|---|
-| ♠️ [Blackjack Card Counting Simulator](https://github.com/nolanszuch-arch/Black-Jack-Card-Counting-Code-Python) | Python | Simulation & Probability | Developed a Blackjack simulation to evaluate card-counting and betting strategies across 100,000+ simulated hands using probability, decision logic, and statistical analysis. |
+| ♠️ [Blackjack Card Counting Simulator]([https://github.com/nolanszuch-arch/Black-Jack-Card-Counting-Code-Python](https://github.com/nolanszuch-arch/Black-Jack-Card-Counting-Code-Python)) | Python | Simulation & Probability | Developed a Blackjack simulation to evaluate card-counting and betting strategies across 100,000+ simulated hands using probability, decision logic, and statistical analysis. |
 
 ---
 
