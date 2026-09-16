@@ -27,7 +27,7 @@ My projects explore **data analytics, statistical modeling, financial analysis, 
 
 | Project | Tools | Area | Description |
 |---|---|---|---|
-| [COVID-19 Dashboard]([https://github.com/nolanszuch-arch/Covid-19-Dashboard](https://github.com/nolanszuch-arch/Covid-19-Dashbord)) | Tableau, SQL | Data Visualization | Analyzed COVID-19 cases, deaths, and vaccinations alongside Malaysia's KLSE Index to visualize pandemic trends and their relationship with stock market performance. |
+| [COVID-19 Dashboard](https://github.com/nolanszuch-arch/Covid-19-Dashbord) | Tableau, SQL | Data Visualization | Analyzed COVID-19 cases, deaths, and vaccinations alongside Malaysia's KLSE Index to visualize pandemic trends and their relationship with stock market performance. |
 
 ---
 
