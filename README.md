@@ -19,7 +19,7 @@ My projects explore **data analytics, statistical modeling, financial analysis, 
 
 | Project | Tools | Area | Description |
 |---|---|---|---|
-| 📉 [Job Loss & Depression Analysis](https://github.com/nolanszuch-arch/Job-Loss-and-Depression-Analysis) | R, dplyr, ggplot2 | Statistical Analysis | Analyzed U.S. Census HTOPS data to examine the relationship between job loss and reported depression. Cleaned and transformed survey data, developed logistic regression models, interpreted odds ratios and marginal effects, and performed robustness testing. |
+| 📉 [Job Loss & Depression Analysis](https://github.com/nolanszuch-arch/Health-Data-Clean) | R, dplyr, ggplot2 | Statistical Analysis | Analyzed U.S. Census HTOPS data to examine the relationship between job loss and reported depression. Cleaned and transformed survey data, developed logistic regression models, interpreted odds ratios and marginal effects, and performed robustness testing. |
 
 ---
 
