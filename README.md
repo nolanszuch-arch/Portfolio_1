@@ -2,11 +2,12 @@
 
 Welcome to my portfolio! I'm an analytics professional interested in turning complex data into clear insights and better business decisions.
 
-My projects explore **data analytics, statistical modeling, financial analysis, risk, and programming** using tools including R, Python, Excel, and Git.
+My projects explore **data analytics, statistical modeling, financial analysis, risk, and programming** using tools including R, Python, SQL, Excel, Tableau, and Git.
 
 ## 📚 Table of Contents
 
 - [Data Analytics](#-data-analytics)
+- [Tableau](#-tableau)
 - [Financial Analytics](#-financial-analytics)
 - [Python](#-python)
 - [Skills](#-skills)
@@ -19,6 +20,14 @@ My projects explore **data analytics, statistical modeling, financial analysis, 
 | Project | Tools | Area | Description |
 |---|---|---|---|
 | 📉 [Job Loss & Depression Analysis](https://github.com/nolanszuch-arch/Job-Loss-and-Depression-Analysis) | R, dplyr, ggplot2 | Statistical Analysis | Analyzed U.S. Census HTOPS data to examine the relationship between job loss and reported depression. Cleaned and transformed survey data, developed logistic regression models, interpreted odds ratios and marginal effects, and performed robustness testing. |
+
+---
+
+# 📈 Tableau
+
+| Project | Tools | Area | Description |
+|---|---|---|---|
+| 🦠 [COVID-19 & Malaysia Stock Market Dashboard](https://github.com/nolanszuch-arch/Covid-19-Dashboard) | Tableau, SQL | Data Visualization | Analyzed COVID-19 cases, deaths, and vaccinations alongside Malaysia's KLSE Index to visualize pandemic trends and their relationship with stock market performance. |
 
 ---
 
@@ -63,7 +72,6 @@ I enjoy taking complicated problems, breaking them down with data, and communica
 My interests include **data analytics, financial and risk analytics, healthcare analytics, and business intelligence**.
 
 Outside of analytics, I'm a former collegiate swimmer and vinyl enthusiast. 🏊‍♂️🎵
-
 
 ---
 
