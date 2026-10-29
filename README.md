@@ -28,6 +28,7 @@ My projects explore **data analytics, statistical modeling, financial analysis, 
 | Project | Tools | Area | Description |
 |---|---|---|---|
 | [COVID-19 Dashboard](https://github.com/nolanszuch-arch/Covid-19-Dashbord) | Tableau, SQL | Data Visualization | Analyzed COVID-19 cases, deaths, and vaccinations alongside Malaysia's KLSE Index to visualize pandemic trends and their relationship with stock market performance. |
+| 🌸 [Flowerama Retail Profitability Analysis](https://github.com/nolanszuch-arch/Flowerama) | Excel, Tableau | Retail & Financial Analytics | Analyzed revenue, expenses, and profitability for a local Flowerama store. Created Tableau dashboards to examine sales trends, order channels, quarterly performance, and operating costs. Presented findings at the end of the semester. |
 
 ---
 
